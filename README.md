@@ -36,6 +36,4 @@ I'm a Fullstack developer and I'm currently working on my portfolio.
 
 <br>
 
-<img height="140em" src="https://camo.githubusercontent.com/af789fd07756706bf89dff4434c7d4a49f34ccd2376769df9df6efa24464bdeb/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6c6961746f6c656e74696e6f266c61796f75743d636f6d70616374266c616e67735f636f756e743d37267468656d653d70616e6461" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaqromero&amp;layout=compact&amp;langs_count=7&amp;theme=panda" style="max-width: 80%;">
-
 </div>
