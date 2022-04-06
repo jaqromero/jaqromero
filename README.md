@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/40179746/162031599-42f182f9-7396-4586-bcb1-662f2678405a.png)
+![image](https://user-images.githubusercontent.com/40179746/162042889-cb465db3-599b-487c-99fd-55ed871f68d6.png)
 <h3 align="center">A passionate frontend developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaqromero&label=Profile%20views&color=0e75b6&style=flat" alt="jaqromero" /> </p>
