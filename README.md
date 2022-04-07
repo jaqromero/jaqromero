@@ -9,7 +9,7 @@
 
 <h2> About Me <img src = "https://media.giphy.com/media/ule4vhcY1xEKQ/giphy.gif" width = 50px></h2>
 
-I'm a Fullstack developer and I'm currently working on my portfolio.
+I'm a Full Stack developer and I'm currently working on my portfolio.
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
